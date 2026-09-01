@@ -24,7 +24,7 @@
 * 🎓 **3rd-year Engineering Student** in **Data Science, Big Data & AI** at **ENSA Agadir**
 * 💻 Holder of a **DUT in Computer Engineering** from **EST Agadir**
 * 🧠 Passionate about **Machine Learning**, **Deep Learning** & **Computer Vision**
-- Developed an **AI-powered PPE detection system using YOLO** during my internship at Marsa Maroc
+- 🦺Developed an **AI-powered PPE detection system using YOLO** during my internship at Marsa Maroc
 * 🛠️ I enjoy building **end-to-end AI applications**, from data preparation and model training to deployment
 * 🌐 Experienced with **Python, Flask, React, databases and REST APIs**
 * 📊 Interested in **Data Science, Big Data, Business Intelligence & intelligent systems**
