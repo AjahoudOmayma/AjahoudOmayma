@@ -111,7 +111,6 @@ Detects:
 <br/>
 
 <details>
-<summary>✨ <b>More Projects</b> — click to explore</summary>
 
 <br/>
 
@@ -138,17 +137,6 @@ Various web development projects combining:
 `React` · `Laravel` · `PHP` · `JavaScript` · `Flask` · `SQL`
 
 </details>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AjahoudOmayma&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=B47EE5&icon_color=E0B3F0&text_color=D9A6E0&count_private=true" width="48%" />
-
-
-</div>
 
 <br/>
 
