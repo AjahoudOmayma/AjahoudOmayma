@@ -24,7 +24,7 @@
 * 🎓 **3rd-year Engineering Student** in **Data Science, Big Data & AI** at **ENSA Agadir**
 * 💻 Holder of a **DUT in Computer Engineering** from **EST Agadir**
 * 🧠 Passionate about **Machine Learning**, **Deep Learning** & **Computer Vision**
-* 🦺 Currently working on an **AI-powered PPE detection system using YOLO**
+- Developed an **AI-powered PPE detection system using YOLO** during my internship at Marsa Maroc
 * 🛠️ I enjoy building **end-to-end AI applications**, from data preparation and model training to deployment
 * 🌐 Experienced with **Python, Flask, React, databases and REST APIs**
 * 📊 Interested in **Data Science, Big Data, Business Intelligence & intelligent systems**
@@ -162,18 +162,6 @@ Various web development projects combining:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjahoudOmayma&theme=redical&hide_border=true&bg_color=00000000&color=D9A6E0&line=B47EE5&point=E0B3F0" width="97%" />
 
 </div>
-
----
-
-### 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AjahoudOmayma/AjahoudOmayma/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-
-</div>
-
----
 
 ### 🌱 Currently Exploring
 
