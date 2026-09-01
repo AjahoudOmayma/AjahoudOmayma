@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/followers/GITHUB_USERNAME?label=Followers&style=flat&color=e5a4d9" alt="Followers" />
 </p>
 <div align="center">
-  <img src="./cute.gif" width="350" alt="Cute animation"/>
+  <img src="./cute.gif" width="400" alt="Cute animation"/>
 </div>
 
 
