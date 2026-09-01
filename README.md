@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=B47EE5&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Omayma+%F0%9F%8C%B8;Data+Science+%26+AI+Engineering+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Turning+data+into+intelligent+applications+%E2%9C%A8" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=B47EE5&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Omayma+%F0%9F%8C%B8;Data+Science+%26+AI+Engineering+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+AI-powered+applications+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -10,13 +11,13 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&label=Profile%20Views&color=b47ee5&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/GITHUB_USERNAME?label=Followers&style=flat&color=e5a4d9" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=omaymaajahoud&label=Profile%20Views&color=b47ee5&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/omaymaajahoud?label=Followers&style=flat&color=e5a4d9" alt="Followers" />
 </p>
+
 <div align="center">
   <img src="./cute.gif" width="400" alt="Cute animation"/>
 </div>
-
 
 ---
 
@@ -24,12 +25,14 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280">
 
-- 🎓 Final-year **Data Science, Big Data & AI** engineering student @ **ENSA Agadir**, Morocco
-- 🧠 Passionate about **Machine Learning**, **Deep Learning** and **Computer Vision**
-- 🛠️ I love building **practical, end-to-end AI applications** — from model training to a working product
-- 🌐 Comfortable across the full stack: data pipelines, ML models, backend APIs, databases & frontend
-- 🚀 Curious about entrepreneurship and turning AI ideas into useful digital products
-- 💌 Let's connect — always open to internships, collaborations & interesting problems!
+* 🎓 **3rd-year Engineering Student** in **Data Science, Big Data & AI** at **ENSA Agadir**
+* 💻 Holder of a **DUT in Computer Engineering** from **EST Agadir**
+* 🧠 Passionate about **Machine Learning**, **Deep Learning** & **Computer Vision**
+* 🦺 Currently working on an **AI-powered PPE detection system using YOLO**
+* 🛠️ I enjoy building **end-to-end AI applications**, from data preparation and model training to deployment
+* 🌐 Experienced with **Python, Flask, React, databases and REST APIs**
+* 📊 Interested in **Data Science, Big Data, Business Intelligence & intelligent systems**
+* 🚀 Curious about **entrepreneurship** and building useful digital products
 
 <br clear="right"/>
 
@@ -41,25 +44,29 @@
 
 **🤖 AI & Data Science**
 
-<img src="https://skillicons.dev/icons?i=py&theme=light" height="42"/>&nbsp;
-<img src="https://img.shields.io/badge/Machine%20Learning-B47EE5?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-D9A6E0?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-C293DB?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-FFB6D9?style=for-the-badge&logo=yolo&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=light" height="42"/>  <img src="https://img.shields.io/badge/Machine%20Learning-B47EE5?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-D9A6E0?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Computer%20Vision-C293DB?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-FFB6D9?style=for-the-badge&logo=yolo&logoColor=black"/>
+
+<br/><br/>
 
 **💻 Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=py,java,c,php,js&theme=light" height="42"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,php,js&theme=light" height="42"/>
 <img src="https://img.shields.io/badge/SQL-E0B3F0?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
 
 **🌐 Web & Backend**
 
 <img src="https://skillicons.dev/icons?i=react,vite,flask,laravel,html,css&theme=light" height="42"/>
 
+<br/><br/>
+
 **🗄️ Databases**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra&theme=light" height="42"/>
 <img src="https://img.shields.io/badge/Oracle-D9A6E0?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<br/><br/>
 
 **🛠️ Tools & Platforms**
 
@@ -82,19 +89,22 @@
 <td width="100%">
 
 #### 🦺 AI-Powered PPE Detection System
-*Computer Vision project detecting personal protective equipment in real time*
 
-Detects **helmets**, **safety vests**, and flags **missing safety equipment** using a trained YOLO model, built into a complete AI-powered application.
+*Computer Vision system for detecting personal protective equipment*
 
-**🔄 Pipeline:**
+An AI-powered safety monitoring system developed during my work with **Marsa Maroc**, using **YOLO-based object detection** to identify PPE compliance.
+
+Detects:
+
+🪖 **Helmet** · 👷 **Vest** · ⚠️ **Missing PPE**
+
+**🔄 AI Pipeline**
+
 `Dataset Preparation` → `Annotation` → `Augmentation` → `YOLO Training` → `Evaluation` → `Video Inference` → `AI Application`
 
-**🏗️ Architecture:**
+**🏗️ Application Architecture**
 
-<img src="https://img.shields.io/badge/React_+_Vite-D9A6E0?style=for-the-badge&logo=react&logoColor=white"/> ➜
-<img src="https://img.shields.io/badge/Flask_API-B47EE5?style=for-the-badge&logo=flask&logoColor=white"/> ➜
-<img src="https://img.shields.io/badge/YOLO-C293DB?style=for-the-badge&logo=yolo&logoColor=white"/> ➜
-<img src="https://img.shields.io/badge/PostgreSQL-E0B3F0?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_+_Vite-D9A6E0?style=for-the-badge&logo=react&logoColor=white"/> ➜ <img src="https://img.shields.io/badge/Flask_API-B47EE5?style=for-the-badge&logo=flask&logoColor=white"/> ➜ <img src="https://img.shields.io/badge/YOLO-C293DB?style=for-the-badge&logo=yolo&logoColor=black"/> ➜ <img src="https://img.shields.io/badge/PostgreSQL-E0B3F0?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </td>
 </tr>
@@ -105,17 +115,31 @@ Detects **helmets**, **safety vests**, and flags **missing safety equipment** us
 <br/>
 
 <details>
-<summary>✨ <b>More Projects</b> (click to expand)</summary>
+<summary>✨ <b>More Projects</b> — click to explore</summary>
+
 <br/>
 
-**🅿️ Smart Parking Management System**
-Real-time parking management app — `Flask` + `Oracle SQL / PL-SQL`
+### 🅿️ Smart Parking Management System
 
-**🩺 Diabetes Prediction**
-Machine learning model predicting diabetes risk — `KNN` classifier
+A smart parking management application built with:
 
-**🌐 Other Web & Full-Stack Projects**
-A collection of smaller full-stack builds spanning React, Flask and relational databases.
+`Flask` · `Oracle` · `SQL / PL-SQL`
+
+---
+
+### 🩺 Diabetes Prediction
+
+Machine Learning project for diabetes prediction using:
+
+`Python` · `KNN` · `Machine Learning`
+
+---
+
+### 🌐 Web & Full-Stack Projects
+
+Various web development projects combining:
+
+`React` · `Laravel` · `PHP` · `JavaScript` · `Flask` · `SQL`
 
 </details>
 
@@ -125,25 +149,41 @@ A collection of smaller full-stack builds spanning React, Flask and relational d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=B47EE5&icon_color=E0B3F0&text_color=D9A6E0&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=radical&hide_border=true&background=00000000&ring=B47EE5&fire=E0B3F0&currStreakLabel=D9A6E0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=omaymaajahoud&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=B47EE5&icon_color=E0B3F0&text_color=D9A6E0&count_private=true" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=omaymaajahoud&theme=radical&hide_border=true&background=00000000&ring=B47EE5&fire=E0B3F0&currStreakLabel=D9A6E0" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaymaajahoud&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=B47EE5&text_color=D9A6E0" width="48%" />
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=B47EE5&text_color=D9A6E0" width="48%" />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omaymaajahoud&theme=redical&hide_border=true&bg_color=00000000&color=D9A6E0&line=B47EE5&point=E0B3F0" width="97%" />
 
 </div>
 
+---
+
+### 🐍 My Contributions
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=redical&hide_border=true&bg_color=00000000&color=D9A6E0&line=B47EE5&point=E0B3F0" width="97%" />
+<img src="https://raw.githubusercontent.com/omaymaajahoud/omaymaajahoud/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
-<!-- Contribution snake animation -->
+---
+
+### 🌱 Currently Exploring
+
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+`🤖 Advanced AI` · `👁️ Computer Vision` · `🧠 Deep Learning` · `🚀 AI Deployment` · `📊 Data Engineering` · `💻 Full-Stack AI`
 
 </div>
 
@@ -153,9 +193,25 @@ A collection of smaller full-stack builds spanning React, Flask and relational d
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-B47EE5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-E0B3F0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-C293DB?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omayma-ajahoud/">
+  <img src="https://img.shields.io/badge/LinkedIn-B47EE5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ajahoudomayma97@gmail.com">
+  <img src="https://img.shields.io/badge/Email-E0B3F0?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/omaymaajahoud">
+  <img src="https://img.shields.io/badge/GitHub-C293DB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+✨ **Always learning • Always building • Always curious** ✨
 
 </div>
 
