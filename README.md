@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B47EE5&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=B47EE5&amp;height=180&amp;section=header&amp;text=Welcome%20to%20my%20profile!&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%" />
 
 </div>
 
