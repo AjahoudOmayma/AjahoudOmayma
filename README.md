@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=B47EE5&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Omayma+%F0%9F%8C%B8;Data+Science+%26+AI+Engineering+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+AI-powered+applications+%E2%9C%A8" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=B47EE5&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Omayma;Data+Science+%26+AI+Engineering+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+AI-powered+applications" alt="Typing SVG" />
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=B47EE5&amp;height=180&amp;section=header&amp;text=Welcome%20to%20my%20profile!&amp;fontSize=38&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%" />
