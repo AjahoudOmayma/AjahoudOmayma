@@ -147,11 +147,6 @@ Various web development projects combining:
 
 <img src="https://github-readme-stats.vercel.app/api?username=AjahoudOmayma&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=B47EE5&icon_color=E0B3F0&text_color=D9A6E0&count_private=true" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=AjahoudOmayma&theme=radical&hide_border=true&background=00000000&ring=B47EE5&fire=E0B3F0&currStreakLabel=D9A6E0" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjahoudOmayma&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=B47EE5&text_color=D9A6E0" width="48%" />
 
 </div>
 
