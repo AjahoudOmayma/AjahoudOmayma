@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Animated typing header -->
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=B47EE5&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Omayma+%F0%9F%8C%B8;Data+Science+%26+AI+Engineering+Student;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Building+AI-powered+applications+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
@@ -11,8 +9,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omaymaajahoud&label=Profile%20Views&color=b47ee5&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/omaymaajahoud?label=Followers&style=flat&color=e5a4d9" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=AjahoudOmayma&label=Profile%20Views&color=b47ee5&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AjahoudOmayma?label=Followers&style=flat&color=e5a4d9" alt="Followers" />
 </p>
 
 <div align="center">
@@ -92,7 +90,7 @@
 
 *Computer Vision system for detecting personal protective equipment*
 
-An AI-powered safety monitoring system developed during my work with **Marsa Maroc**, using **YOLO-based object detection** to identify PPE compliance.
+An AI-powered safety monitoring system developed during my internship work with **Marsa Maroc**, using **YOLO-based object detection** to identify PPE compliance.
 
 Detects:
 
@@ -149,13 +147,13 @@ Various web development projects combining:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omaymaajahoud&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=B47EE5&icon_color=E0B3F0&text_color=D9A6E0&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AjahoudOmayma&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=B47EE5&icon_color=E0B3F0&text_color=D9A6E0&count_private=true" width="48%" />
 
-<img src="https://streak-stats.demolab.com/?user=omaymaajahoud&theme=radical&hide_border=true&background=00000000&ring=B47EE5&fire=E0B3F0&currStreakLabel=D9A6E0" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=AjahoudOmayma&theme=radical&hide_border=true&background=00000000&ring=B47EE5&fire=E0B3F0&currStreakLabel=D9A6E0" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaymaajahoud&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=B47EE5&text_color=D9A6E0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjahoudOmayma&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=B47EE5&text_color=D9A6E0" width="48%" />
 
 </div>
 
@@ -163,7 +161,7 @@ Various web development projects combining:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omaymaajahoud&theme=redical&hide_border=true&bg_color=00000000&color=D9A6E0&line=B47EE5&point=E0B3F0" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjahoudOmayma&theme=redical&hide_border=true&bg_color=00000000&color=D9A6E0&line=B47EE5&point=E0B3F0" width="97%" />
 
 </div>
 
@@ -173,7 +171,7 @@ Various web development projects combining:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/omaymaajahoud/omaymaajahoud/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/AjahoudOmayma/AjahoudOmayma/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -201,7 +199,7 @@ Various web development projects combining:
   <img src="https://img.shields.io/badge/Email-E0B3F0?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/omaymaajahoud">
+<a href="https://github.com/AjahoudOmayma">
   <img src="https://img.shields.io/badge/GitHub-C293DB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
