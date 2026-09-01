@@ -13,7 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&label=Profile%20Views&color=b47ee5&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/GITHUB_USERNAME?label=Followers&style=flat&color=e5a4d9" alt="Followers" />
 </p>
-
+<div align="center">
+  <img src="./cute.gif" width="200" alt="Cute animation"/>
+</div>
 
 
 ---
